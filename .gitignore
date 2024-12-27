@@ -1,0 +1,6 @@
+data/
+logs/
+.idea/
+__pycache__/
+*.ipynb
+*.pdf
