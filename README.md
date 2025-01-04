@@ -11,7 +11,7 @@ To address these limitations, we model face forgery detection as a class increme
 
 We compared the performance of six advanced methods under three different settings to verify the competitive performance of PESE.
 
-<img src='resources/results.PNG' width='600'>
+<img src='resources/results.PNG' width='400'>
 
 ## Requirements
 ### 🗂️ Environment
